@@ -1,0 +1,9 @@
+
+esquid:S1192"KDefine a constant instead of duplicating this literal "New Jersey" 7 times.(¸Òé²øÿÿÿÿ
+`squid:S1192"FDefine a constant instead of duplicating this literal "Kevin" 7 times.(ôÈßçøÿÿÿÿ
+dsquid:S1192"JDefine a constant instead of duplicating this literal "+94221035" 7 times.(€ğº™şÿÿÿÿ
+ksquid:S1450"VRemove the "toolbar" field and declare it as a local variable in the relevant methods.(ş®º—
+€squid:S1450"fRemove the "collapsingToolbarLayout" field and declare it as a local variable in the relevant methods.(ÉÏÑùÿÿÿÿ
+ƒsquid:S1450"iRemove the "collapsingToolbarImageView" field and declare it as a local variable in the relevant methods.(½Ñ’–ûÿÿÿÿ
+‰squid:S1450"oRemove the "collapsing_toolbar_recycler_view" field and declare it as a local variable in the relevant methods.(õò‡şÿÿÿÿ
+†squid:S00116"kRename this field "collapsing_toolbar_recycler_view" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õò‡şÿÿÿÿ

@@ -1,0 +1,17 @@
+
+@squid:S1659"&Declare "add_item" on a separate line.(âñìÂýÿÿÿÿ
+Csquid:S1659")Declare "delete_item" on a separate line.(âñìÂýÿÿÿÿ
+usquid:S1450"[Remove the "recyclerView" field and declare it as a local variable in the relevant methods.(¿á© ýÿÿÿÿ
+tsquid:S1450"ZRemove the "update_list" field and declare it as a local variable in the relevant methods.(âñìÂýÿÿÿÿ
+qsquid:S1450"WRemove the "add_item" field and declare it as a local variable in the relevant methods.(âñìÂýÿÿÿÿ
+tsquid:S1450"ZRemove the "delete_item" field and declare it as a local variable in the relevant methods.(âñìÂýÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¦÷É…
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ñùµ 
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¬€ÐÌþÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°‰¦æüÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¬€ÐÌþÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(á§¹Ãøÿÿÿÿ
+^squid:HiddenFieldCheck"9Rename "tests" which hides the field declared at line 22.(‘œ‰™ûÿÿÿÿ
+qsquid:S00116"VRename this field "update_list" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âñìÂýÿÿÿÿ
+nsquid:S00116"SRename this field "add_item" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âñìÂýÿÿÿÿ
+qsquid:S00116"VRename this field "delete_item" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âñìÂýÿÿÿÿ

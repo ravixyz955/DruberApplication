@@ -1,0 +1,21 @@
+
+Ssquid:UnusedPrivateMethod"0Remove this unused private "writeToFile" method.(§¬«„
+Psquid:UnusedPrivateMethod"-Remove this unused private "readFile" method.(Æ˜äê
+osquid:S1450"ZRemove the "permissions" field and declare it as a local variable in the relevant methods.(˜ƒÑ¾
+Dsquid:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ
+bsquid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(†š­î
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ïøê
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ïøê
+_squid:S2674"JCheck the return value of the "read" call to see how many bytes were read.(®Ê¦š
+Fsquid:S1481",Remove this unused "content" local variable.(°â±¢úÿÿÿÿ
+Usquid:S1854";Remove this useless assignment to local variable "content".(°â±¢úÿÿÿÿ
+jsquid:S00116"TRename this field "read_logs" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë¥áë
+osquid:S00116"YRename this field "PERMISSION_ALL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ðõÌ 
+Usquid:UselessImportCheck".Remove this unused import 'android.view.View'.(Ø½­äþÿÿÿÿ
+jsquid:UselessImportCheck"HRemove this unused import 'android.text.method.ScrollingMovementMethod'.(Û™ê¡
+asquid:UselessImportCheck":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
+dsquid:UselessImportCheck"CRemove this unused import 'android.support.design.widget.Snackbar'.( À®p
+Ssquid:UselessImportCheck"1Remove this unused import 'android.app.Activity'.(‡ÊÍÆ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ

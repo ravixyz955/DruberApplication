@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/coordinator_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context=".JobOptionsActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/typeStartBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shadowfile"
+            android:drawablePadding="5dp"
+            android:drawableStart="@drawable/ic_flight_takeoff_white_24dp"
+            android:drawableTint="@color/black"
+            android:gravity="center"
+            android:hint="@string/typetxt"
+            android:padding="20dp"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/typeStopBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shadowfile"
+            android:drawablePadding="5dp"
+            android:drawableStart="@drawable/ic_flight_takeoff_white_24dp"
+            android:drawableTint="@color/black"
+            android:gravity="center"
+            android:hint="@string/typetxt"
+            android:padding="20dp"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/successTxt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shadowfile"
+            android:drawableStart="@drawable/ic_flight_takeoff_white_24dp"
+            android:drawableTint="@color/black"
+            android:gravity="center"
+            android:hint="@string/success_text"
+            android:padding="20dp"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="mission_item_colors">
+        <item>@color/colorDarkCyan</item>
+        <item>@color/colorGreen</item>
+        <item>@color/colorBlue</item>
+        <item>@color/colorGrey</item>
+        <item>@color/colorMaroon</item>
+        <item>@color/colorLightBlue</item>
+        <item>@color/colorLightBlue</item>
+    </array>
+
+    <string-array name="drones">
+        <item>A1</item>
+        <item>A2</item>
+        <item>A3</item>
+        <item>A4</item>
+        <item>A5</item>
+        <item>A6</item>
+    </string-array>
+</resources>

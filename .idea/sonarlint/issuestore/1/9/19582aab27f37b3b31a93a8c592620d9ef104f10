@@ -1,0 +1,17 @@
+
+:squid:S1068"%Remove this unused "r" private field.(œŠ¨¾
+Dsquid:S1068"/Remove this unused "ROTATE_FROM" private field.(˜àù
+Bsquid:S1068"-Remove this unused "ROTATE_TO" private field.(ìíÁ
+Csquid:S1068".Remove this unused "email_chip" private field.(ñ¥È
+rsquid:S1450"XRemove the "click_btn" field and declare it as a local variable in the relevant methods.(ÁÒÖ–şÿÿÿÿ
+nsquid:S1450"YRemove the "email_chip" field and declare it as a local variable in the relevant methods.(ñ¥È
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(­¬ ß
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°É˜şÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(æÀö€øÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(®îæ«şÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÁÒŞâÿÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¡Ş™Øüÿÿÿÿ
+Bsquid:S1604"(Make this anonymous inner class a lambda(‘Òëışÿÿÿÿ
+osquid:S00116"TRename this field "click_btn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÒÖ–şÿÿÿÿ
+ksquid:S00116"URename this field "email_chip" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¥È
+\squid:UselessImportCheck"5Remove this unused import 'android.app.ListActivity'.(ì¤²øÿÿÿÿ

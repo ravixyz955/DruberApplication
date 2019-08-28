@@ -1,0 +1,10 @@
+
+Bsquid:S1068"-Remove this unused "chipGroup" private field.(·ıËŠ
+>squid:S1068")Remove this unused "names" private field.(Ûıé
+msquid:S1450"YRemove the "chipsInput" field and declare it as a local variable in the relevant methods.(¬í\
+isquid:S1450"TRemove the "names" field and declare it as a local variable in the relevant methods.(Ûıé
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éğŠ§ùÿÿÿÿ
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ú–¡
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(»‡ª
+›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö²À¦ùÿÿÿÿ
+Tsquid:UselessImportCheck"-Remove this unused import 'android.Manifest'.(¦øïúÿÿÿÿ

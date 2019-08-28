@@ -1,0 +1,11 @@
+
+Bsquid:S1604"(Make this anonymous inner class a lambda(Ë¿±òùÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ýÝÝýùÿÿÿÿ
+[squid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(òž¶È
+`squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Šðä…
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŒþäŠúÿÿÿÿ
+Gsquid:S3510"2Do not unconditionally return true in this method.(§¼Éç
+‡squid:UselessImportCheck"`Remove this unused import 'com.jakewharton.retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory'.(Êºé“úÿÿÿÿ
+Tsquid:S1118":Add a private constructor to hide the implicit public one.(âäÕÒÿÿÿÿÿ
+=squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+lsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÖ‚úÿÿÿÿ

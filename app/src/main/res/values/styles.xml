@@ -1,0 +1,153 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!--<item name="android:popupMenuStyle">@style/PopupMenu.Example</item>-->
+        <item name="actionOverflowMenuStyle">@style/OverflowMenu</item>
+    </style>
+
+    <style name="ChipTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!--<item name="android:popupMenuStyle">@style/PopupMenu.Example</item>-->
+        <item name="actionOverflowMenuStyle">@style/OverflowMenu</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="FullscreenTheme" parent="AppTheme">
+        <item name="android:actionBarStyle">@style/FullscreenActionBarStyle</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="metaButtonBarStyle">?android:attr/buttonBarStyle</item>
+        <item name="metaButtonBarButtonStyle">?android:attr/buttonBarButtonStyle</item>
+    </style>
+
+    <style name="FullscreenActionBarStyle" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/black_overlay</item>
+    </style>
+
+    <style name="SplashStyle" parent="AppTheme">
+        <!--<item name="android:windowBackground">@drawable/bg_splash</item>-->
+    </style>
+
+    <style name="InvisibleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">0sp</item>
+        <item name="android:textColor">@android:color/transparent</item>
+    </style>
+
+    <style name="MyMaterialTheme.Base" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="_FullscreenTheme" parent="MyMaterialTheme.Base">
+        <item name="android:actionBarStyle">@style/FullscreenActionBarStyle</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="metaButtonBarStyle">?android:attr/buttonBarStyle</item>
+        <item name="metaButtonBarButtonStyle">?android:attr/buttonBarButtonStyle</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowAllowEnterTransitionOverlap" tools:targetApi="lollipop">true
+        </item>
+        <item name="android:windowAllowReturnTransitionOverlap">true</item>
+        <item name="android:windowSharedElementEnterTransition">@android:transition/move</item>
+        <item name="android:windowSharedElementExitTransition">@android:transition/move</item>
+    </style>
+
+    <style name="CustomAppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="MyNumberPickerTheme" parent="@android:style/Widget.Material.NumberPicker">
+        <item name="colorControlNormal ">#ffffff</item>
+        <item name="android:background">#66000000</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="mapbox_LocationLayer">
+        <item name="mapbox_foregroundDrawable">@drawable/mapbox_user_icon</item>
+        <item name="mapbox_backgroundDrawable">@drawable/mapbox_user_stroke_icon</item>
+        <item name="mapbox_bearingDrawable">@drawable/mapbox_user_bearing_icon</item>
+        <item name="mapbox_gpsDrawable">@drawable/mapbox_user_puck_icon</item>
+
+        <item name="mapbox_foregroundDrawableStale">@drawable/mapbox_user_icon_stale</item>
+        <item name="mapbox_backgroundDrawableStale">@drawable/mapbox_user_stroke_icon</item>
+
+        <item name="mapbox_accuracyAlpha">0.15</item>
+        <item name="mapbox_accuracyColor">@color/mapbox_location_layer_blue</item>
+
+        <item name="mapbox_elevation">12dp</item>
+
+        <item name="mapbox_enableStaleState">true</item>
+        <item name="mapbox_staleStateTimeout">30000</item>
+
+
+        <!-- Location icon padding -->
+        <item name="mapbox_iconPaddingLeft">0</item>
+        <item name="mapbox_iconPaddingTop">0</item>
+        <item name="mapbox_iconPaddingRight">0</item>
+        <item name="mapbox_iconPaddingBottom">0</item>
+
+        <!-- Map zoom levels -->
+        <item name="mapbox_maxZoom">18</item>
+        <item name="mapbox_minZoom">2</item>
+
+        <!-- Location icon scale based on map zoom levels -->
+        <item name="mapbox_maxZoomIconScale">1</item>
+        <item name="mapbox_minZoomIconScale">0.6</item>
+
+    </style>
+
+    <style name="CustomDialog" parent="@android:style/Theme.DeviceDefault.Light.Dialog">
+        <item name="android:windowAnimationStyle">@style/CustomDialogAnimation</item>
+    </style>
+
+    <style name="CustomDialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/slide_down_top</item>
+        <item name="android:windowExitAnimation">@anim/slide_up_top</item>
+    </style>
+
+    <style name="CustomMenuDialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/fadein</item>
+        <item name="android:windowExitAnimation">@anim/fadeut</item>
+    </style>
+
+    <style name="OverflowMenu" parent="Widget.AppCompat.PopupMenu.Overflow">
+        <item name="overlapAnchor">true</item>
+        <item name="android:dropDownHorizontalOffset">?attr/actionBarSize</item>
+    </style>
+
+    <style name="CalenderViewCustom" parent="Theme.AppCompat">
+        <item name="colorAccent">@android:color/holo_blue_dark</item>
+        <item name="colorPrimary">@android:color/darker_gray</item>
+        <item name="android:textColorPrimary">@color/colorPrimary</item>
+    </style>
+
+    <style name="CalenderViewDateCustomText" parent="android:TextAppearance.DeviceDefault.Small">
+        <item name="android:textColor">@android:color/holo_orange_dark</item>
+    </style>
+
+    <style name="CalenderViewWeekCustomText" parent="android:TextAppearance.DeviceDefault.Small">
+        <item name="android:textColor">@android:color/holo_green_dark</item>
+    </style>
+</resources>

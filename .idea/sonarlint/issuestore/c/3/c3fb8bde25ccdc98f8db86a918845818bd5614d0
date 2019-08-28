@@ -1,0 +1,9 @@
+
+Csquid:S1659")Declare "searchTests" on a separate line.(Ýæþ‘ýÿÿÿÿ
+;squid:S1659"!Declare "age" on a separate line.(øŒÙ¨ýÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‰¾‘Æÿÿÿÿÿ
+Šsquid:S1319"pThe type of the "tests" object should be an interface such as "List" rather than the implementation "ArrayList".(”ÝÄ‚ûÿÿÿÿ
+Šsquid:S1319"pThe type of the "tests" object should be an interface such as "List" rather than the implementation "ArrayList".(öÉ¡Ùúÿÿÿÿ
+Šsquid:S1319"pThe type of the "tests" object should be an interface such as "List" rather than the implementation "ArrayList".(Šì¹¾ÿÿÿÿÿ
+ssquid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+Xsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(‹‰°ßøÿÿÿÿ

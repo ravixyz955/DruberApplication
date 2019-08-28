@@ -1,0 +1,8 @@
+
+fsquid:UnusedPrivateMethod"7Remove this unused private "initDaysInCalender" method.(«³«Çùÿÿÿÿ8·ª¶”Ä-
+gsquid:UnusedPrivateMethod"8Remove this unused private "getdaysLayoutParams" method.(­¿Áœúÿÿÿÿ8·ª¶”Ä-
+Msquid:S1068",Remove this unused "mContext" private field.(»úÅ¾øÿÿÿÿ8·ª¶”Ä-
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.(îÈ¢Ãøÿÿÿÿ8·ª¶”Ä-
+~squid:S1450"]Remove the "mWeekNameColor" field and declare it as a local variable in the relevant methods.(ú ûÿÿÿÿ8·ª¶”Ä-
+Ssquid:S1068"2Remove this unused "mWeekNameColor" private field.(ú ûÿÿÿÿ8·ª¶”Ä-
+dsquid:S2259"CA "NullPointerException" could be thrown; "event" is nullable here.(şÅİêıÿÿÿÿ8ˆ¸õ”Ä-

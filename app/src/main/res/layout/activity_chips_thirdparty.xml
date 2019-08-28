@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:visibility="visible">
+
+    <com.pchmn.materialchips.ChipsInput
+        android:id="@+id/chips_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:chip_backgroundColor="@null"
+        app:chip_deletable="true"
+        app:chip_deleteIconColor="@null"
+        app:chip_detailed_backgroundColor="@android:color/holo_blue_light"
+        app:chip_detailed_deleteIconColor="@android:color/white"
+        app:chip_detailed_textColor="@android:color/holo_red_dark"
+        app:chip_hasAvatarIcon="true"
+        app:chip_labelColor="@null"
+        app:filterable_list_backgroundColor="@null"
+        app:filterable_list_textColor="@null"
+        app:hint="Enter a name"
+        app:hintColor="@null"
+        app:maxRows="3"
+        app:textColor="@null" />
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,10 @@
+
+Ksquid:S1068"1Remove this unused "EMAIL_PATTERN" private field.(À»‚“ùÿÿÿÿ
+psquid:S2068"V'PASSWORD' detected in this expression, review this potentially hard-coded credential.(ààÀ¦şÿÿÿÿ
+@squid:S1172"&Remove these unused method parameters.(İè‰şÿÿÿÿ
+ksquid:S1450"VRemove the "shimmer" field and declare it as a local variable in the relevant methods.(Ï„¦ù
+=squid:S1148"#Use a logger to log this exception.(¯Óí‘úÿÿÿÿ
+tsquid:S00116"YRename this field "forgot_pwd_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†£¡Áùÿÿÿÿ
+Nsquid:S1068"4Remove this unused "PASSWORD_PATTERN" private field.(ààÀ¦şÿÿÿÿ
+jsquid:S00116"TRename this field "login_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¯ïî
+ksquid:S00116"URename this field "signup_txt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºìÏ½
